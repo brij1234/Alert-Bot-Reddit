@@ -16,6 +16,30 @@ If you really like the bot, please consider making a donation for my time. Thank
 
 ***Note:*** For each of these fields (subject and body) capitalization does *not* matter, it will yield the exact same results.
 
+- [Alert Bot](#alert-bot)
+  * [Donate](#donate)
+- [How It Works](#how-it-works)
+  * [To subscribe](#to-subscribe)
+    + [Parameter Values](#parameter-values)
+    + [-title *\<parameter list\>*](#-title----parameter-list---)
+    + [-body *\<parameter list\>*](#-body----parameter-list---)
+    + [-redditor *\<parameter list\>*](#-redditor----parameter-list---)
+    + [-ignore-title *\<parameter list\>*](#-ignore-title----parameter-list---)
+    + [-ignore-body *\<parameter list\>*](#-ignore-body----parameter-list---)
+    + [-ignore-redditor *\<parameter list\>*](#-ignore-redditor----parameter-list---)
+    + [-subreddit *\<parameter list\>*](#-subreddit----parameter-list---)
+    + [Flags:](#flags-)
+    + [-nsfw](#-nsfw)
+  * [To Unsubscribe](#to-unsubscribe)
+  * [Viewing your subscriptions](#viewing-your-subscriptions)
+  * [Viewing Statistics](#viewing-statistics)
+  * [Getting Help](#getting-help)
+  * [Reject message](#reject-message)
+  * [Future Plans](#future-plans)
+  * [Issues / things to watch out for](#issues---things-to-watch-out-for)
+  * [Edits](#edits)
+  * [Developer Info](#developer-info)
+
 ## To subscribe
 
 Send a [private message to /u/Alert_Bot](https://www.reddit.com/message/compose/?to=alert_bot) with the body of the message specifying what you want the bot to look out for. The body of the message is what the bot cares about, so the following examples should be in the body of the message. The subject of the message can be anything, but I recommend making it descriptive to you, so you can see what the message is about at a quick glance.
